@@ -10,7 +10,7 @@ This repository contains sample projects and associated GitHub Actions workflows
 5. Enhance the workflow files by:
     - Separate the build and test jobs.
     - Use artifact storage to share build artifacts between jobs.
-    - Exploring the use of caching of dependencies and other build artifacts to speed up workflow exectuion. Refer to GitHub Actions and build tool documentation for further guidance. 
+    - Exploring the use of caching of dependencies and other build artifacts to speed up workflow execution. Refer to GitHub Actions and build tool documentation for further guidance. 
     - Generate and publish test reports.
     - Add status badges for each workflow
 
