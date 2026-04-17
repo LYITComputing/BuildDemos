@@ -23,4 +23,5 @@ This repository contains sample projects and associated GitHub Actions workflows
 [A Better Way to Use Gradle With Github Actions](https://blog.gradle.org/gh-actions)  
 [Gradle Cache Action](https://github.com/marketplace/actions/gradle-cache)  
 [Adding a workflow status badge](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge)  
-[Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+[Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)  
+[A composite Action for packaging and uploading artifact that can be deployed to GtiHub pages](https://github.com/actions/upload-pages-artifact)  
